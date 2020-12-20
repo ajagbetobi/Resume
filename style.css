@@ -529,3 +529,7 @@ textarea:focus {
     margin-top: 10px;
   }
 }
+
+.special-github {
+  color: var(--dark);
+}
