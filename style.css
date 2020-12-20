@@ -530,6 +530,6 @@ textarea:focus {
   }
 }
 
-.special-github {
+.special-github { 
   color: var(--dark);
 }
